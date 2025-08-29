@@ -26,4 +26,4 @@
 
 ## 📫 Connect with Me  
 [www.linkedin.com/in/yuriinagorniak](https://www.linkedin.com/in/yuriinagorniak)  
-[yurii.nagorniak@gmail.com(mailto:yurii.nagorniak@gmail.com)  
+[yurii.nagorniak@gmail.com](mailto:yurii.nagorniak@gmail.com)  
