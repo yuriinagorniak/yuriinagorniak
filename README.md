@@ -25,11 +25,5 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn logo]][LinkedIn] [LinkedIn]  
-[![Email logo]][Email] [Email]  
-
-[LinkedIn logo]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-[Email logo]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-[LinkedIn]: https://www.linkedin.com/in/yuriinagorniak
-[Email]: mailto:yurii.nagorniak@gmail.com
+[https://www.linkedin.com/in/yuriinagorniak](https://www.linkedin.com/in/yuriinagorniak)
+mailto:yurii.nagorniak@gmail.com
