@@ -2,7 +2,7 @@
 
 - Passionate about crafting **clean, responsive, and interactive UIs**  
 - Currently focusing on **React, TypeScript, and modern web tooling**  
-- Always learning and exploring **performance optimisation, accessibility, and design systems**  
+- Always learning and exploring 
 - Open to **front-end developer opportunities**  
 ---
 ## 🛠 Tech Stack  
