@@ -25,8 +25,11 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/yuriinagorniak)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:yurii.nagorniak@gmail.com)  
+[![LinkedIn logo]][LinkedIn] [LinkedIn]  
+[![Email logo]][Email] [Email]  
 
----
-⭐️ From [YuriiNagorniak](https://github.com/YuriiNagorniak)
+[LinkedIn logo]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+[Email logo]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+[LinkedIn]: https://www.linkedin.com/in/yuriinagorniak
+[Email]: mailto:yurii.nagorniak@gmail.com
