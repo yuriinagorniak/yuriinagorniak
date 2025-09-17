@@ -23,9 +23,6 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
----
-![](https://github-readme-stats.vercel.app/api?username=yuriinagorniak&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
----
 
 ## 📫 Connect with Me  
 [www.linkedin.com/in/yuriinagorniak](https://www.linkedin.com/in/yuriinagorniak)  
